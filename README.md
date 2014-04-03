@@ -3,4 +3,6 @@ PIS
 
 Vjezba 3 iz projektiranja
 
-Vježba 3 – distribuirani sustavi verzioniranja
+Vjeï¿½ba 3 ï¿½ distribuirani sustavi verzioniranja
+
+sta je lorna? imal problema?
